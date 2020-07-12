@@ -1,0 +1,27 @@
+{
+  "name": "follow-user",
+  "version": "1.0.0",
+  "description": "A quick script that follows all members in an organization",
+  "main": "index.js",
+  "bin": {
+    "follow-user": "prompt.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeAmP0is0N/follow-user.git"
+  },
+  "author": "TeAmp0is0N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeAmP0is0N/follow-user/issues"
+  },
+  "homepage": "https://github.com/TeAmP0is0N/follow-user#readme",
+  "dependencies": {
+    "github": "^0.2.3",
+    "prompt": "^0.2.14"
+  }
+}
+
