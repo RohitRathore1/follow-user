@@ -10,5 +10,5 @@ A quick script that follows all members in an organization.
 # Use
 
 ```
-npm i -g follow-me && follow-me
+npm i -g follow-user && follow-user
 ```
